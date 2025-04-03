@@ -5,8 +5,9 @@ Este projeto é uma aplicação **ASP.NET WebForms** que processa arquivos `.txt
 ---
 
 ## 📷 Demonstração
-![image](https://github.com/user-attachments/assets/0b05d36e-f4d0-4983-a5f2-4bb12e846c29)
-![image](https://github.com/user-attachments/assets/4636cd75-e336-44c7-bd0a-a5c96ee9a134)
+![image](https://github.com/user-attachments/assets/7823b31e-97fc-41e4-b3de-6d48408086c1)
+![image](https://github.com/user-attachments/assets/950a30e1-f3a5-47fe-ab3b-722122ca7c1e)
+
 
 ---
 
